@@ -1,6 +1,7 @@
 ﻿Responzivní breakpointy (místa, kde se mění rozložení stránky):
 
 Mobilní verze - šířka do 500px
+
 ==============================
 - všechno je pod sebou v jedné úzké nudli
 - v menu jsou položky pod sebou, menu samotné je nad obsahem
